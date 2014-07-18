@@ -1,1 +1,7 @@
 This tests fabric commandline hosts definition.
+
+To test, ensure you have fabric installed and run
+
+```
+./test.sh
+```
